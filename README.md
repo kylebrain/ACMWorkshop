@@ -1,0 +1,24 @@
+# ACMWorkshop
+Welcome to the ACM Kitchen!
+- Object oriented concepts
+  - Encapsulation
+    - Declaring members and methods
+    - Getters and setters
+  - Inheritance
+    - Interface classes
+  - Polymorphism
+    - Using interfaces in functions
+- C# specifics
+  - Reference types
+    - Nullable types
+  - ToString() override
+  - Class containers
+  - Static class helper functions
+  - Passing by reference
+    - ref, out, in
+      - ref argument must be initialized when passed
+      - out is similar to ref but does not need to be initialized
+      - in protects the param from being modified
+  - Helpful datatypes
+    - Lists, Dictionaries
+  - Documentation
